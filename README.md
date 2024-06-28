@@ -1,2 +1,3 @@
-# clean-architecture
-Clean architecture with spring boot
+# clean-architecture-application
+
+A clean architecture application with spring boot
